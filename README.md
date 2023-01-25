@@ -31,7 +31,7 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 <p><a href="https://www.researchgate.net/profile/Fabrizio-Tappero">
 <img align="left" alt="Python" width="120px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/research_gate.png" />
 </p>
-<p><a href="https://www.amazon.com/Books-Fabrizio-Tappero/s?rh=n%3A283155%2Cp_27%3AFabrizio+Tapperohtml ">
+<p><a href="https://www.amazon.com/s?k=fabrizio+tappero">
 <img align="left" alt="Python" width="140px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/amazon.png" />
 </p>
 <br />
