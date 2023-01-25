@@ -9,15 +9,21 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 - ⚡ Fun fact: I sometimes make :tv: short films!
 
 ## Languages and tools
-<p><a href="">
+<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </p>
-
+  
+<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
+</p>
+ 
+<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+</p>
+  
+<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</p>
 <br />
 <br />
 
