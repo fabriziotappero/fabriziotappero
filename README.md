@@ -6,7 +6,7 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 - 👯 I’m looking to collaborate on electronics :electric_plug: and programming :computer:
 - 💬 Ask me about C++ and embedded systems
 - 📫 How to reach me: fabrizio.tappero@gmail.com
-- ⚡ Fun fact: I sometimes make :tv: [short films](http://focusaway.com/)
+- ⚡ Fun fact: I sometimes make :tv: [short films](focusaway.com/)
 
 ## Languages and tools
 <p><a href="https://github.com/fabriziotappero">
