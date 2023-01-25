@@ -1,12 +1,12 @@
 Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
 
 
-- 🔭 I’m currently working on a C++ tools for point cloud visualization.
-- 🌱 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager.
-- 👯 I’m looking to collaborate on electronics :electric_plug: and programming :computer:.
-- 💬 Ask me about C++ and embedded systems.
+- 🔭 I’m currently working on a C++ tools
+- 🌱 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
+- 👯 I’m looking to collaborate on electronics :electric_plug: and programming :computer:
+- 💬 Ask me about C++ and embedded systems
 - 📫 How to reach me: fabrizio.tappero@gmail.com
-- ⚡ Fun fact: I sometimes make :tv: short films!
+- ⚡ Fun fact: I sometimes make :tv: [short films](http://focusaway.com/)
 
 ## Languages and tools
 <p><a href="https://github.com/fabriziotappero">
