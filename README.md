@@ -38,7 +38,7 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 <br />
 
 ## My Best Efforts
-  A programming book and an IP cores database.
+  A programming book and a serchable database with tons of open-source IP cores.
 <p align="left">
 <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
 <img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width = "30%" alt="">
