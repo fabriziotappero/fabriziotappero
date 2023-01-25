@@ -14,7 +14,7 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 </p>
  
 <p><a href="https://github.com/fabriziotappero">
