@@ -12,7 +12,7 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </p>
-  
+
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 </p>
@@ -29,24 +29,30 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 
 ## Published Works
 <p><a href="https://www.researchgate.net/profile/Fabrizio-Tappero">
-<img align="left" alt="Python" width="120px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/research_gate.png" />
+<img align="left" alt="Python" width="120px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/research_gate.png"/>
 </p>
+  
 <p><a href="https://www.amazon.com/s?k=fabrizio+tappero">
-<img align="left" alt="Python" width="140px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/amazon.png" />
+<img align="left" alt="Python" width="140px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/amazon.png"/>
 </p>
 <br />
 <br />
 
-## My Best Efforts
-  A programming book and a serchable database with tons of open-source IP cores.
-<p align="left">
-<a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
-<img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width = "30%" alt="">
-</p>
+## How I am Doing
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fabriziotappero&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br />
+<br />
 
- <p align="left">
-  <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
-    <img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width = "50%" alt=""/>
-  </a>
+  ## My Best Efforts
+Aprogramming book and a serchable database with tons of open-source IP cores.
+  
+<p> <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
+<img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width="30%" alt=""/>
 </p>
-
+  
+<p> <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
+<img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="50%" alt=""/>
+</p>
+  
+<br />
+<br />
