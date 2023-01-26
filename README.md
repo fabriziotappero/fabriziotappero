@@ -1,6 +1,6 @@
-Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
+Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
 
-- 🔨 I’m currently working on a C++ tool
+- 🔨 I’m currently working on some C++ tools for fast data visualization
 - 👀 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
 - 💖 I’m looking to collaborate on electronics 🔌 and programming 📻
 - 💬 Ask me about C++ and embedded systems
@@ -19,7 +19,11 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
 </p>
-  
+
+<p><a href="https://github.com/fabriziotappero">
+<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad2-96.png" />
+</p>
+    
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-mysql-96.png" />
 </p>
