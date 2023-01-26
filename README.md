@@ -58,6 +58,5 @@ A programming book and a searchable database with tons of open-source IP cores.
 <p> <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
 <img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="50%" alt=""/>
 </p>
-  
 <br />
 <br />
