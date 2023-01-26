@@ -29,6 +29,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 </p>
 <br />
 <br />
+<br />
 
 ## Published Works
 <p><a href="https://www.researchgate.net/profile/Fabrizio-Tappero">
@@ -40,11 +41,13 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 </p>
 <br />
 <br />
+<br />
 
 ## How I am Doing
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fabriziotappero&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  
 <sub>* Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). Values are calculated by using a cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.<sub>
+<br />
 <br />
 <br />
 
@@ -58,5 +61,6 @@ A programming book and a searchable database with tons of open-source IP cores.
 <p> <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
 <img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="50%" alt=""/>
 </p>
+<br />
 <br />
 <br />
