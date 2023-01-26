@@ -40,6 +40,8 @@ Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [U
 
 ## How I am Doing
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fabriziotappero&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+ 
+<sub>* Ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). Values are calculated by using a cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.<sub>
 <br />
 <br />
 
