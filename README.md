@@ -9,23 +9,23 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 
 ## Languages and tools
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
+<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="42px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
+<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
+<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad-96.png" />
+<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad-96.png" />
 </p>
     
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-mysql-96.png" />
+<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-mysql-96.png" />
 </p>
 <br />
 <br />
