@@ -1,28 +1,27 @@
 Hi there, my name is **Fabrizio**, I am an electrical egineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
 
-
-- 🔭 I’m currently working on a C++ tool
-- 🌱 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
-- 👯 I’m looking to collaborate on electronics :electric_plug: and programming :computer:
+- 🔨 I’m currently working on a C++ tool
+- 👀 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
+- 💖 I’m looking to collaborate on electronics 🔌 and programming 📻
 - 💬 Ask me about C++ and embedded systems
 - 📫 How to reach me: fabrizio.tappero@gmail.com
-- ⚡ Fun fact: I sometimes make :tv: [short films](http://www.focusaway.com/)
+- ⚡ Fun fact: I sometimes make 🎥 [short films](http://www.focusaway.com/)
 
 ## Languages and tools
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="" width="42px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
 </p>
- 
+
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
 </p>
   
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="" width="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-mysql-96.png" />
 </p>
 <br />
 <br />
