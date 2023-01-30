@@ -3,30 +3,33 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 - 🔨 I’m currently working on some C++ tools for fast data visualization
 - 👀 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
 - 💖 I’m looking to collaborate on electronics 🔌 and programming 📻
-- 💬 Ask me about C++ and embedded systems
+- 💬 Ask me about C++ and embedded systems![image](https://user-images.githubusercontent.com/8971950/215501794-7e6782a8-44af-4dd9-99ad-e7942a494b1b.png)![image](https://user-images.githubusercontent.com/8971950/215501802-e8a9fa39-0c18-4fbf-bfaa-604194f2f478.png)
+
+
 - 📫 How to reach me: fabrizio.tappero@gmail.com
 - ⚡ Fun fact: I sometimes make 🎥 [short films](http://www.focusaway.com/)
 
 ## Languages and tools
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
+<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
+<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
+<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad-96.png" />
+<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/conan.png" />
 </p>
-    
+
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" width="55px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-mysql-96.png" />
+<img align="left" alt="" height="60px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad-96.png" />
 </p>
+
 <br />
 <br />
 <br />
