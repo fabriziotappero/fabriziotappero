@@ -12,8 +12,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
 
-<p><a href="https://github.com/fabriziotappero">![image](https://user-images.githubusercontent.com/8971950/215509344-ebedea43-d275-440c-a650-1bf7e8692b4c.png)
-
+<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
 </p>
 
