@@ -11,10 +11,9 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
-![image](https://user-images.githubusercontent.com/8971950/215505190-c6166dca-54d8-400c-95a6-cd24be04c124.png)![image](https://user-images.githubusercontent.com/8971950/215505221-1b30328a-b642-4909-a9e0-d4ef05b2e4e5.png)
 
+<p><a href="https://github.com/fabriziotappero">![image](https://user-images.githubusercontent.com/8971950/215509344-ebedea43-d275-440c-a650-1bf7e8692b4c.png)
 
-<p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-c++-96.png" />
 </p>
 
@@ -27,7 +26,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-kicad-96.png" />
+<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/kicad2.png" />
 </p>
 
 <br />
