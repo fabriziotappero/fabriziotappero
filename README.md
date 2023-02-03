@@ -21,7 +21,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
-<img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/conan.png" />
+<img align="left" alt="" height="45px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/conan.png" />
 </p>
 
 <p><a href="https://github.com/fabriziotappero">
