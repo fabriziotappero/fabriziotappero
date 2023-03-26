@@ -1,9 +1,9 @@
 Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
 
-- 🔨 I’m currently working on some C++ tools for fast data visualization
-- 👀 I’m learning about the [C++ Conan](https://docs.conan.io/en/latest/) package manager
-- 💖 I’m looking to collaborate on electronics 🔌 and programming 📻
-- 💬 Ask me about C++ and embedded systems
+- 🔨 I’m currently working on C++ tools for fast data visualization in the [ADAS sector](https://cariad.technology/de/en/careers/automated-driving-engineer.html)
+- 👀 I’m learning about the [Conan Package Manager](https://docs.conan.io/en/latest/) for large C++ projects
+- 💖 I’m looking to collaborate on electronics 🔌 and C++ programming 📻
+- 💬 Ask me about C++ programming and embedded systems
 - 📫 How to reach me: fabrizio.tappero@gmail.com
 - ⚡ Fun fact: I sometimes make 🎥 [short films](http://www.focusaway.com/)
 
