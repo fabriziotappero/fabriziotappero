@@ -7,7 +7,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 - 📫 How to reach me: fabrizio.tappero@gmail.com
 - ⚡ Fun fact: I sometimes make 🎥 [short films](http://www.focusaway.com/)
 
-## Languages and tools
+## Languages and Tools I'm Familiar Width
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
@@ -53,8 +53,8 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <br />
 <br />
 -->
-  ## My Best Efforts
-A VHDL programming book and a searchable database with GB of VHDL/Verilog open-source IP cores.
+  ## My Best Public Efforts
+A [VHDL programming book](https://github.com/fabriziotappero/Free-Range-VHDL-book) and a [searchable database](https://fabriziotappero.github.io/opencores-scraper/cores.html) with GB of VHDL/Verilog open-source IP cores.
   
 <p> <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
 <img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width="30%" alt=""/>
