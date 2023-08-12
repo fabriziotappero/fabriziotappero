@@ -44,6 +44,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <br />
 <br />
 
+<!--
 ## How I am Doing
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fabriziotappero&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  
@@ -51,9 +52,9 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <br />
 <br />
 <br />
-
+-->
   ## My Best Efforts
-A VHDL programming book and a searchable database with tons of VHDL/Verilog open-source IP cores.
+A VHDL programming book and a searchable database with GB of VHDL/Verilog open-source IP cores.
   
 <p> <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
 <img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width="30%" alt=""/>
