@@ -62,7 +62,7 @@ A [VHDL Programming Book](https://github.com/fabriziotappero/Free-Range-VHDL-boo
 </p>
   
 <p> <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
-<img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="55%" alt=""/>
+<img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="53%" alt=""/>
 </p>
 <br />
 <br />
