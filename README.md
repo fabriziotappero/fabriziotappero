@@ -1,13 +1,13 @@
 Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [USNW](https://www.unsw.edu.au) and this is a little bit about myself.
 
-- 🔨 I’m currently working on C++ tools for fast data visualization in the [ADAS sector](https://cariad.technology/de/en/careers/automated-driving-engineer.html)
+- 🔨 I’m currently working on C++ tools for data manipulation in the [ADAS sector](https://cariad.technology/de/en/careers/automated-driving-engineer.html)
 - 👀 I’m learning about the [Conan Package Manager](https://docs.conan.io/en/latest/) for large C++ projects
 - 💖 I’m looking to collaborate on electronics 🔌 and C++ programming 📻
 - 💬 Ask me about C++ programming and embedded systems
 - 📫 How to reach me: fabrizio.tappero@gmail.com
 - ⚡ Fun fact: I sometimes make 🎥 [short films](http://www.focusaway.com/)
 
-## Languages and Tools I'm Familiar With
+## Languages/Tools I'm Familiar With
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-python-96.png" />
 </p>
@@ -19,11 +19,11 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/icons8-git-96.png" />
 </p>
-
+<!--
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="45px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/conan.png" />
 </p>
-
+-->
 <p><a href="https://github.com/fabriziotappero">
 <img align="left" alt="" height="50px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/kicad2.png" />
 </p>
@@ -32,7 +32,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <br />
 <br />
 
-## Published Works From My Past
+## Published Works
 <p><a href="https://www.researchgate.net/profile/Fabrizio-Tappero">
 <img align="left" alt="Python" width="120px" src="https://github.com/fabriziotappero/fabriziotappero/blob/main/img/research_gate.png"/>
 </p>
@@ -53,15 +53,16 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 <br />
 <br />
 -->
+
   ## My Best Public Effort
-A [VHDL programming book](https://github.com/fabriziotappero/Free-Range-VHDL-book) (190 starts) and a [searchable database](https://fabriziotappero.github.io/opencores-scraper/cores.html) (250 starts) with GB of VHDL/Verilog open-source IP cores.
+A [VHDL Programming Book](https://github.com/fabriziotappero/Free-Range-VHDL-book) (209 ⭐) and a [Searchable Database](https://fabriziotappero.github.io/opencores-scraper/cores.html) (277 ⭐) with 800+ VHDL/Verilog open-source IP projects.
   
 <p> <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
 <img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width="30%" alt=""/>
 </p>
   
 <p> <a href="https://fabriziotappero.github.io/opencores-scraper/cores.html">
-<img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="50%" alt=""/>
+<img align="left" src="https://github.com/fabriziotappero/opencores-scraper/blob/master/search_table.png?raw=true" width="55%" alt=""/>
 </p>
 <br />
 <br />
