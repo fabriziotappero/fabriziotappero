@@ -55,7 +55,7 @@ Hi there, my name is **Fabrizio**, I am an electrical engineer with a PhD from [
 -->
 
   ## My Best Public Effort
-A [VHDL Programming Book](https://github.com/fabriziotappero/Free-Range-VHDL-book) (240 ⭐) and a [Searchable Code Database](https://fabriziotappero.github.io/opencores-scraper/cores.html) (315 ⭐) with 800+ VHDL/Verilog open-source IP projects.
+A [VHDL Programming Book](https://github.com/fabriziotappero/Free-Range-VHDL-book) (240 ⭐) and a [Searchable VHDL Core Database](https://fabriziotappero.github.io/opencores-scraper/cores.html) (315 ⭐) with 800+ VHDL/Verilog open-source IP projects.
   
 <p> <a href="https://github.com/fabriziotappero/Free-Range-VHDL-book">
 <img align="left" src="https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/pics/cover.png?raw=true" width="30%" alt=""/>
